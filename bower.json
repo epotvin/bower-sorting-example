@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "latest",
+    "angular-bootstrap-datetimepicker": "latest",
+    "angular-ui-calendar": "latest"
+  }
+}
